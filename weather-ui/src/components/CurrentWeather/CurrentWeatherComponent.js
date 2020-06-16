@@ -1,7 +1,7 @@
 import React from "react";
 
 const currentWeatherComponent = (props) => (
-    <div className="my-3">
+    <div className="m-3">
         <p>This application saves current Vilnius weather data every hour to database  </p>
         <p>Under History tab you can view history of Vilnius weather by selecting a date  </p>
         <p>Under Import data tab you can import Vilnius weather data of last 30 days   </p>

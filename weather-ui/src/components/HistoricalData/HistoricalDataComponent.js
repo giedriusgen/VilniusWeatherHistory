@@ -6,7 +6,7 @@ import WeatherTable from './WeatherTable/WeatherTable';
 
 
 const historicalDataComponent = (props) => (
-    <div className="my-2">
+    <div className="m-3">
         <label>Select a date: </label>
         <div className="input-group mb-3">
             <DatePicker
